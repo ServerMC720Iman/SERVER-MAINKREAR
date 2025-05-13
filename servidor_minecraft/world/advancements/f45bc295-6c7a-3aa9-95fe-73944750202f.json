@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/root": {
     "criteria": {
       "tick": "2025-05-13 00:29:54 +0000"
@@ -257,6 +263,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-05-13 00:29:54 +0000"
@@ -353,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_button": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
@@ -410,6 +428,12 @@
   "ars_nouveau:recipes/decorations/sourcestone_21": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
     },
     "done": true
   },
@@ -542,6 +566,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
     },
     "done": true
   },
@@ -701,6 +731,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/mimic_scroll": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
@@ -725,6 +761,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/source_jar": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
@@ -740,6 +782,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
     },
     "done": true
   },
@@ -773,9 +821,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/skyris_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/mob_jar": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
     },
     "done": true
   },
@@ -791,6 +851,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
@@ -803,9 +869,21 @@
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:prairie": "2025-05-13 00:36:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
     },
     "done": true
   },
@@ -818,6 +896,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
     },
     "done": true
   },
@@ -857,6 +941,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
@@ -875,6 +965,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/cika_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
@@ -890,6 +986,12 @@
   "ars_nouveau:recipes/misc/ritual_containment": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
     },
     "done": true
   },
@@ -971,6 +1073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sconce": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
@@ -992,6 +1100,12 @@
   "ars_nouveau:recipes/misc/arcane_pedestal": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
     },
     "done": true
   },
@@ -1097,6 +1211,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/scribes_table": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
@@ -1133,6 +1253,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
@@ -1156,6 +1282,19 @@
       "has_journal": "2025-05-13 00:29:54 +0000"
     },
     "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:temperate_grove": "2025-05-13 00:40:36 +0000",
+      "biomeswevegone:coconino_meadow": "2025-05-13 00:37:17 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-05-13 00:37:56 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-05-13 00:40:27 +0000",
+      "biomeswevegone:prairie": "2025-05-13 00:36:35 +0000",
+      "biomeswevegone:aspen_boreal": "2025-05-13 00:40:11 +0000",
+      "biomeswevegone:skyrise_vale": "2025-05-13 00:41:11 +0000",
+      "biomeswevegone:coniferous_forest": "2025-05-13 00:41:17 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
@@ -1223,6 +1362,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/florus_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/repository": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
@@ -1265,9 +1410,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_granite": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
     },
     "done": true
   },
@@ -1280,6 +1437,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_grass_block": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
     },
     "done": true
   },
@@ -1331,9 +1494,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/blue_enchanted_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
     },
     "done": true
   },
@@ -1346,6 +1527,12 @@
   "ars_nouveau:recipes/misc/archwood_stairs": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
     },
     "done": true
   },
@@ -1433,6 +1620,12 @@
     },
     "done": false
   },
+  "biomeswevegone:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/orange_sbed": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
@@ -1478,6 +1671,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
     },
     "done": true
   },
@@ -1571,6 +1770,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/green_enchanted_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_sconce": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
@@ -1604,6 +1809,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
     },
     "done": true
   },
@@ -1669,7 +1880,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:eroded_badlands": "2025-05-13 00:29:55 +0000"
+      "minecraft:snowy_slopes": "2025-05-13 00:35:59 +0000",
+      "minecraft:eroded_badlands": "2025-05-13 00:29:55 +0000",
+      "minecraft:cherry_grove": "2025-05-13 00:35:13 +0000",
+      "minecraft:sunflower_plains": "2025-05-13 00:35:50 +0000",
+      "minecraft:birch_forest": "2025-05-13 00:40:46 +0000",
+      "minecraft:savanna_plateau": "2025-05-13 00:38:32 +0000",
+      "minecraft:stony_peaks": "2025-05-13 00:38:36 +0000",
+      "minecraft:river": "2025-05-13 00:37:02 +0000",
+      "minecraft:grove": "2025-05-13 00:40:44 +0000",
+      "minecraft:jagged_peaks": "2025-05-13 00:40:53 +0000",
+      "minecraft:forest": "2025-05-13 00:38:08 +0000",
+      "minecraft:flower_forest": "2025-05-13 00:35:55 +0000",
+      "minecraft:savanna": "2025-05-13 00:38:25 +0000",
+      "minecraft:plains": "2025-05-13 00:35:23 +0000"
     },
     "done": false
   },
@@ -1760,6 +1984,12 @@
   "ars_nouveau:recipes/misc/agronomic_sourcelink": {
     "criteria": {
       "has_journal": "2025-05-13 00:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-13 00:37:57 +0000"
     },
     "done": true
   },
