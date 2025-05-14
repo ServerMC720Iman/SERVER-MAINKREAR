@@ -1194,3 +1194,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [14May2025 22:27:41.758] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
 [14May2025 22:27:44.775] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DrPingaFloja (18)
 [14May2025 22:27:44.775] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[14May2025 22:28:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Knowledge of Death]
+[14May2025 22:28:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Ambush]
+[14May2025 22:28:28.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Monster Hunter]
+[14May2025 22:28:33.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [People Are Strange]
+[14May2025 22:29:12.135] [Worker-Main-18/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[14May2025 22:29:12.135] [Worker-Main-18/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[14May2025 22:30:17.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Set the world spawn point to -810, 126, -212 [0.0]]
+[14May2025 22:30:26.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Set the time to 1000]
+[14May2025 22:31:27.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! -1.0065964711226343,0.0,-10.52303172329286
+[14May2025 22:33:42.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Set the world spawn point to -502, 158, -429 [0.0]]
+[14May2025 22:35:57.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[14May2025 22:35:57.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[14May2025 22:35:57.752] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
+[14May2025 22:37:14.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] g
