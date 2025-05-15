@@ -1190,3 +1190,99 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [15May2025 00:56:59.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
 [15May2025 00:56:59.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
 [15May2025 00:57:13.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Set the time to 1000]
+[15May2025 01:12:11.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mtaep[/10.243.95.12:55671] logged in with entity id 5243 at (-499.8791038921269, 160.0, -372.8276533420744)
+[15May2025 01:12:11.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep joined the game
+[15May2025 01:12:11.407] [Server thread/INFO] [Jade/]: Syncing config to Mtaep (c42aba1a-dbbb-3485-bd79-6cc60ec3d64e)
+[15May2025 01:12:13.784] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mtaep (18)
+[15May2025 01:12:13.785] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mtaep
+[15May2025 01:12:15.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Set the time to 1000]
+[15May2025 01:12:24.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c42aba1a-dbbb-3485-bd79-6cc60ec3d64e
+[15May2025 01:12:25.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cattemci[/10.243.17.151:52427] logged in with entity id 5394 at (-450.8279214693498, 175.0, -393.81779322966014)
+[15May2025 01:12:25.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci joined the game
+[15May2025 01:12:25.114] [Server thread/INFO] [Jade/]: Syncing config to Cattemci (b24b122c-232e-3dc2-bf48-11421a53c3a2)
+[15May2025 01:12:25.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c42aba1a-dbbb-3485-bd79-6cc60ec3d64e
+[15May2025 01:12:25.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mtaep (c42aba1a-dbbb-3485-bd79-6cc60ec3d64e) successfully connected to voice chat
+[15May2025 01:12:28.929] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Cattemci (18)
+[15May2025 01:12:28.930] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Cattemci
+[15May2025 01:12:34.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Teleported Mtaep to DrPingaFloja]
+[15May2025 01:12:40.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Teleported Cattemci to DrPingaFloja]
+[15May2025 01:12:45.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> prueben digan si va bien
+[15May2025 01:12:52.592] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b24b122c-232e-3dc2-bf48-11421a53c3a2
+[15May2025 01:12:54.562] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b24b122c-232e-3dc2-bf48-11421a53c3a2
+[15May2025 01:12:54.562] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Cattemci (b24b122c-232e-3dc2-bf48-11421a53c3a2) successfully connected to voice chat
+[15May2025 01:12:57.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> hell nah
+[15May2025 01:13:01.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> ahora no tengo tirones
+[15May2025 01:13:10.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci was slain by The Immortal
+[15May2025 01:13:10.861] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[15May2025 01:13:11.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> pero mira los animales
+[15May2025 01:13:14.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> van lagueados o no
+[15May2025 01:13:20.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has made the advancement [We do a little trolling...]
+[15May2025 01:13:22.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> the inmortal
+[15May2025 01:13:25.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> no
+[15May2025 01:13:27.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> asi no se llamaba el we de invincible??
+[15May2025 01:13:34.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> ns no me lo vi
+[15May2025 01:13:39.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [We do a little trolling...]
+[15May2025 01:13:52.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> te voy a sacar creativo
+[15May2025 01:13:57.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ahora jahuga
+[15May2025 01:14:07.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> bueno
+[15May2025 01:14:11.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> no tengo nada luego
+[15May2025 01:14:14.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Removed 12 item(s) from player Mtaep]
+[15May2025 01:14:17.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> gutambo
+[15May2025 01:14:22.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ola
+[15May2025 01:14:28.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> sacam,e peus
+[15May2025 01:14:31.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Set own game mode to Survival Mode]
+[15May2025 01:14:38.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> yo siempre estuve en survigod
+[15May2025 01:14:51.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Set Mtaep's game mode to Survival Mode]
+[15May2025 01:14:59.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> pq ta me sacaste todos los libois
+[15May2025 01:15:00.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> muy bien
+[15May2025 01:15:09.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> uff cero lag
+[15May2025 01:15:11.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> q ricoadw
+[15May2025 01:15:34.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Stone Age]
+[15May2025 01:15:40.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> no soy muy fan de los sonidos ambientales pero god igua
+[15May2025 01:16:03.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Getting an Upgrade]
+[15May2025 01:16:20.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> nde
+[15May2025 01:16:30.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> esta eso de que si tnees la antorcha en la mano ilumina
+[15May2025 01:16:32.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> ?
+[15May2025 01:16:35.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ns
+[15May2025 01:16:37.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> pq no veo nada
+[15May2025 01:16:42.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> no está
+[15May2025 01:16:57.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Stone Age]
+[15May2025 01:17:06.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> eso no lo ponen pero para poner cosas chinas si
+[15May2025 01:17:07.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> nde hoy consigan lo basico nms
+[15May2025 01:17:11.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> XD
+[15May2025 01:17:14.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Acquire Hardware]
+[15May2025 01:17:28.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> esta el voice chat solo q no esta configurado
+[15May2025 01:17:36.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> tiene fisicas de sonido
+[15May2025 01:18:26.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Getting an Upgrade]
+[15May2025 01:18:42.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has made the advancement [Stone Age]
+[15May2025 01:18:54.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has made the advancement [Getting an Upgrade]
+[15May2025 01:19:02.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> nde matero está en el coso ahí
+[15May2025 01:19:09.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> materooo asi no
+[15May2025 01:19:14.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> que
+[15May2025 01:19:15.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> consigan lo basico dije caralho
+[15May2025 01:19:20.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> y que yo hago
+[15May2025 01:19:33.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> coger con canguro 025
+[15May2025 01:19:40.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> XDDDDD
+[15May2025 01:19:44.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> me encontre con unos incas ko
+[15May2025 01:19:45.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> nde el mod de iluminación dinámica
+[15May2025 01:19:47.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ese falta
+[15May2025 01:19:52.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> despues
+[15May2025 01:20:02.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has made the advancement [Acquire Hardware]
+[15May2025 01:20:06.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> que puta no veo ko una mielda
+[15May2025 01:20:06.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has made the advancement [Isn't It Iron Pick]
+[15May2025 01:20:20.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> algo me escupió veneno wtf
+[15May2025 01:20:29.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> el inca
+[15May2025 01:20:52.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> nde si que va bien
+[15May2025 01:20:58.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> va demasiado bien
+[15May2025 01:21:16.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> 200 mods
+[15May2025 01:22:57.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> me dan miedo las cuevas pq escucho bichotes asi a veces
+[15May2025 01:23:05.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci was slain by The Moonflower
+[15May2025 01:23:05.832] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[15May2025 01:23:09.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> XD
+[15May2025 01:23:15.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> no sé ni lo que me mató loco pa que sepan
+[15May2025 01:23:22.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> hay muchas cosas gutambo
+[15May2025 01:23:31.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> hasta hay una poblacion de girasoles vivientes que tradean
+[15May2025 01:23:35.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> que
+[15May2025 01:23:40.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> si
+[15May2025 01:23:49.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> en una de estas habrá un mod porno y de ludópatas
+[15May2025 01:24:00.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ya hay un tragamonedas
