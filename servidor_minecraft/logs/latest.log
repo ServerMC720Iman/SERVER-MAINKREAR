@@ -81,3 +81,6 @@
 [15May2025 00:08:13.215] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Disconnected
 [15May2025 00:08:13.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
 [15May2025 00:08:13.216] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
+[15May2025 00:12:35.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mtaep lost connection: Timed out
+[15May2025 00:12:35.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep left the game
+[15May2025 00:12:35.220] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mtaep

@@ -10306,3 +10306,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [15May2025 00:08:13.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
 [15May2025 00:08:13.216] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of DrPingaFloja
 [15May2025 00:08:13.216] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
+[15May2025 00:09:55.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 00:09:55.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 00:12:35.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mtaep lost connection: Timed out
+[15May2025 00:12:35.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep left the game
+[15May2025 00:12:35.220] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Mtaep
+[15May2025 00:12:35.220] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mtaep
+[15May2025 00:14:55.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 00:14:55.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
